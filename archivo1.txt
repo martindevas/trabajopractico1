@@ -5,4 +5,6 @@ Equipos del futbol argentino:
 -Independiente
 -Racing
 -huracn
+-Defensa y Justicia
+-Arsenal
 
